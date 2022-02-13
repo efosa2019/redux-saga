@@ -1,0 +1,83 @@
+{
+	"contacts": {
+		"name": "Anna Anne",
+		"email": "annaanne@qliro.com",
+		"phone": "+46721234567",
+		"shipping_address": "Qlirovägen 123,",
+		"invoice_address": "Qlirovägen 123, 12345 Stockholm, Sweden"
+	},
+	"orders": [
+		{
+			"id": "1234567890",
+			"type": "Online",
+			"bage": 0,
+			"createdAt": "05 maj, 12:33",
+			"country": "uk 1.svg",
+			"store": "Butik X",
+			"payment": "Invoice",
+			"payment_img": "Qliro.svg",
+			"pay_status": 2,
+			"amount": "2160 kr"
+		},
+		{
+			"id": "1234567891",
+			"type": "Instore",
+			"bage": 0,
+			"createdAt": "16 maj, 12:33",
+			"country": "Svenska.svg",
+			"store": "Butik X",
+			"payment": "Card, •••• 1234",
+			"payment_img": "VISA.png",
+			"pay_status": 1,
+			"amount": "3890 kr"
+		},
+		{
+			"id": "1234567892",
+			"type": "Manual",
+			"bage": 0,
+			"createdAt": "20 maj, 12:33",
+			"country": "Norska.svg",
+			"store": "Butik X",
+			"payment": "Card, •••• 1234",
+			"payment_img": "AMEX.png",
+			"pay_status": 0,
+			"amount": "1134 kr"
+		},
+		{
+			"id": "1234567893",
+			"type": "Online",
+			"bage": 0,
+			"createdAt": "24 maj, 12:33",
+			"country": "Svenska.svg",
+			"store": "Butik X",
+			"payment": "Paypal",
+			"payment_img": "Paypal.png",
+			"pay_status": 1,
+			"amount": "567 kr"
+		},
+		{
+			"id": "1234567894",
+			"type": "Instore",
+			"bage": 0,
+			"createdAt": "16 maj, 12:33",
+			"country": "Norska.svg",
+			"store": "Butik X",
+			"payment": "Card, •••• 1234",
+			"payment_img": "VISA.png",
+			"pay_status": 1,
+			"amount": "3890 kr"
+		},
+		{
+			"id": "1234567895",
+			"type": "Online",
+			"bage": 0,
+			"createdAt": "05 maj, 12:33",
+			"country": "Svenska.svg",
+			"store": "Butik X",
+			"payment": "Invoice",
+			"payment_img": "Paypal.png",
+			"pay_status": 0,
+			"amount": "2160 kr"
+		}
+	]
+}

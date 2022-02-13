@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'Metropolis-Black';
+  src: local('Metropolis-Black'), url(./assets/fonts/Metropolis-Black.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-BlackItalic';
+  src: local('Metropolis-BlackItalic'), url(./assets/fonts/Metropolis-BlackItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-Bold';
+  src: local('Metropolis-Bold'), url(./assets/fonts/Metropolis-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-BoldItalic';
+  src: local('Metropolis-BoldItalic'), url(./assets/fonts/Metropolis-BoldItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-ExtraBold';
+  src: local('Metropolis-ExtraBold'), url(./assets/fonts/Metropolis-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-ExtraLight';
+  src: local('Metropolis-ExtraLight'), url(./assets/fonts/Metropolis-ExtraLight.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-ExtraLightItalic';
+  src: local('Metropolis-ExtraLightItalic'), url(./assets/fonts/Metropolis-ExtraLightItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-Light';
+  src: local('Metropolis-Light'), url(./assets/fonts/Metropolis-Light.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-LightItalic';
+  src: local('Metropolis-LightItalic'), url(./assets/fonts/Metropolis-LightItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-Medium';
+  src: local('Metropolis-Medium'), url(./assets/fonts/Metropolis-Medium.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-MediumItalic';
+  src: local('Metropolis-MediumItalic'), url(./assets/fonts/Metropolis-MediumItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-Regular';
+  src: local('Metropolis-Regular'), url(./assets/fonts/Metropolis-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-RegularItalic';
+  src: local('Metropolis-RegularItalic'), url(./assets/fonts/Metropolis-RegularItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-SemiBold';
+  src: local('Metropolis-SemiBold'), url(./assets/fonts/Metropolis-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-SemiBoldItalic';
+  src: local('Metropolis-SemiBoldItalic'), url(./assets/fonts/Metropolis-SemiBoldItalic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-Thin';
+  src: local('Metropolis-Thin'), url(./assets/fonts/Metropolis-Thin.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Metropolis-ThinItalic';
+  src: local('Metropolis-ThinItalic'), url(./assets/fonts/Metropolis-ThinItalic.ttf) format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
